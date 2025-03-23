@@ -1729,5 +1729,15 @@
     ],
     "tags": ["/Mining-Dutch/"],
     "link": "https://www.mining-dutch.nl/"
+  },
+  {
+    "id": 160,
+    "name": "Public-Pool",
+    "addresses": [],
+    "tags": [
+      "Public-Pool",
+      "Public Pool on Umbrel"
+    ],
+    "link": "https://web.public-pool.io/"
   }
 ]
